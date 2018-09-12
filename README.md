@@ -56,7 +56,7 @@ var transaction = new lib.Transaction()
 
 ```js
 var lib = require('mix-lib');
-var wif = 'XBrJjgQ8d8J7EM2Z1pcQczqLpoKqQTy8zwMXzvz4nXi8feZCBz5w';
+var wif = 'XG68DmUydnkdaj9VoXzD6mzGzc2ABz2jEFcUPAYWnBew3eJtYvWk';
 var address = new lib.PrivateKey(wif).toAddress();
 //<Address: GPJs2uSCFDjDD9GqS5PcGcixBUs6jB8qL8, type: pubkeyhash, network: GeekCash>
 ```
