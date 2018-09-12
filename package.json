@@ -1,9 +1,9 @@
 {
-  "name": "@dashevo/dashcore-lib",
-  "version": "0.15.5",
-  "description": "A pure and powerful JavaScript Dash library.",
-  "author": "BitPay <dev@bitpay.com>",
-  "main": "index.js",
+  "name": "mix-lib",
+  "version": "1.0.0",
+  "description": "A pure and powerful JavaScript Multiple Coins library.",
+  "author": "nasa8x",
+  "main": "./dist/index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --progress --watch --colors",
     "prod": "cross-env NODE_ENV=production webpack -p --progress --colors",
@@ -73,6 +73,9 @@
     }
   ],
   "keywords": [
+    "Bitcoin",
+    "GeekCash",
+    "Geek",
     "dash",
     "transaction",
     "address",
@@ -91,12 +94,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/dashcore-lib.git"
+    "url": "https://github.com/nasa8x/mix-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/dashevo/dashcore-lib/issues"
+    "url": "https://github.com/nasa8x/mix-lib/issues"
   },
-  "homepage": "https://github.com/dashevo/dashcore-lib",
+  "homepage": "https://github.com/nasa8x/mix-lib",
   "browser": {
     "request": "browser-request"
   },
