@@ -62,10 +62,11 @@ var address = new lib.PrivateKey(wif).toAddress();
 ```
 
 ### Coins
-
+```
 GeekCash
 Dash
 Bitcoin
+```
 
 ## Docs
 
