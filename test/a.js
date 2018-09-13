@@ -1,6 +1,6 @@
 var lib = require('../dist');
 
-var priv = new lib.PrivateKey("BTC");
+var priv = new lib.PrivateKey("DigiByte");
 
 // var publicKey = PublicKey(privateKey);
 // var address = new Address(publicKey);
@@ -12,7 +12,7 @@ console.log(priv.toWIF());
 
 console.log(priv.toAddress());
 
-// var wif = 'XBrJjgQ8d8J7EM2Z1pcQczqLpoKqQTy8zwMXzvz4nXi8feZCBz5w';
+//  var wif = 'XG68DmUydnkdaj9VoXzD6mzGzc2ABz2jEFcUPAYWnBew3eJtYvWk';
 
 // var address = new lib.PrivateKey(wif).toAddress();
 

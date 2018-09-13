@@ -66,6 +66,15 @@ var address = new lib.PrivateKey(wif).toAddress();
 GeekCash
 Dash
 Bitcoin
+PIVX
+ColossusXT
+Aegeus
+MetaCash
+LightPayCoin
+Northern
+DeepOnion
+DigiByte
+Zcash
 ```
 
 ## Docs
