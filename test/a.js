@@ -2,15 +2,18 @@ var lib = require('../dist');
 
 var priv = new lib.PrivateKey("XSN");
 
-// var publicKey = PublicKey(privateKey);
-// var address = new Address(publicKey);
 
-// var address = new Address(publicKey);
+// var priv = new lib.Address("XSN");
 
-console.log(priv);
-console.log(priv.toWIF());
+var publicKey = new lib.PublicKey(priv);
+var address = new lib.Address(publicKey);
 
-console.log(priv.toAddress());
+console.log(address);
+
+// console.log(priv);
+// console.log(priv.toWIF());
+
+// console.log(priv);
 
 //  var wif = 'XG68DmUydnkdaj9VoXzD6mzGzc2ABz2jEFcUPAYWnBew3eJtYvWk';
 

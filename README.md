@@ -78,7 +78,10 @@ Zcash [ZEC]
 Stakenet [XSN]
 MMOCoin [MMO]
 Stakecube [SCC]
-
+BitcoinCash [BCH]
+Alqo [ALQ]
+BlockNet [BLOCK]
+Trittium [TRTT]
 ```
 
 ## Docs
