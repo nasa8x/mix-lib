@@ -63,18 +63,22 @@ var address = new lib.PrivateKey(wif).toAddress();
 
 ### Coins
 ```
-GeekCash
-Dash
-Bitcoin
-PIVX
-ColossusXT
-Aegeus
-MetaCash
-LightPayCoin
-Northern
-DeepOnion
-DigiByte
-Zcash
+GeekCash [GEEK]
+Dash [DASH]
+Bitcoin [BTC]
+PIVX [PIVX]
+ColossusXT [COLX]
+Aegeus [AEG]
+MetaCash [META]
+LightPayCoin [LPC]
+Northern [NORT]
+DeepOnion [ONION]
+DigiByte [DGB]
+Zcash [ZEC]
+Stakenet [XSN]
+MMOCoin [MMO]
+Stakecube [SCC]
+
 ```
 
 ## Docs

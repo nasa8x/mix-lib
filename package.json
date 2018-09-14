@@ -1,6 +1,6 @@
 {
   "name": "mix-lib",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A pure and powerful JavaScript Multiple Coins library.",
   "author": "nasa8x",
   "main": "./dist/index.js",

@@ -1,6 +1,6 @@
 var lib = require('../dist');
 
-var priv = new lib.PrivateKey("DigiByte");
+var priv = new lib.PrivateKey("XSN");
 
 // var publicKey = PublicKey(privateKey);
 // var address = new Address(publicKey);
